@@ -1,0 +1,2 @@
+# Java_Homework_Problem_of_Day_10
+Bit manipulation homework questions
